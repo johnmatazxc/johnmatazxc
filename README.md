@@ -1,10 +1,10 @@
 # 💫 About Me:
 I am a Software Developer with a Diploma in Software Development from ABM College in Calgary, AB, and a Bachelor of Science in Computer Engineering from Bulacan State University, Bulacan, PH. With three years of professional experience at SVI SSC Philippines, I have honed my skills in developing innovative software solutions. My academic background and practical experience in the industry have equipped me with a solid foundation in software engineering principles and a proven ability to deliver high-quality software products. I am passionate about leveraging technology to solve complex problems and am always eager to embrace new challenges in the field of software development
 
-🔭 I’m currently working on<br>
+<br>🔭 I’m currently working on<br>
 • Building Spring Application<br>
 
-🌱 I’m currently learning<br><br>
+<br>🌱 I’m currently learning<br>
 • Spring Framework<br>
 
 
